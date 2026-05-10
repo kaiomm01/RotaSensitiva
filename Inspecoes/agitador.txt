@@ -1,0 +1,23 @@
+INSPECIONAR.................ACIONAMENTO E MANCAIS
+* HÁ VIBRAÇÃO OU RUÍDO EXCESSIVO? (ANÁLISE SENSITIVA)
+OK ( ) NOK ( ) NR ( )
+* FIXAÇÃO AO MOTOR ESTÁ CORRETA?
+OK ( ) NOK ( ) NR ( )
+* VERIFICAR ALINHAMENTO DA CORREIA E DA POLIA
+OK ( ) NOK ( ) NR ( )
+* VERIFICAR EXISTÊNCIA DE FOLGA NA CORREIA E POLIA
+OK ( ) NOK ( ) NR ( )
+* VERIFICAR SE AS PROTEÇÕES ESTÃO FIXADAS CORRETAMENTE E BOAS CONDIÇÕES
+OK ( ) NOK ( ) NR ( )
+* VIBRAÇÃO MANCAL LA: ____________________ MM/S (ESPERADO +/-2,5MM/S - ALARME
+5,0MM/S)
+OK ( ) NOK ( ) NR ( )
+* TEMPERATURA MANCAL LA:__________________°C (ESPERADO +/-60°C - ALARME 80°C)
+OK ( ) NOK ( ) NR ( )
+* VIBRAÇÃO MANCAL LOA: ____________________ MM/S (ESPERADO +/-2,5MM/S - ALARME
+5,0MM/S)
+OK ( ) NOK ( ) NR ( )
+* TEMPERATURA MANCAL LOA:__________________°C (ESPERADO +/-60°C - ALARME 80°C)
+OK ( ) NOK ( ) NR ( )
+* EM CASO DE CONDIÇÕES DE ALAME ABRIR NOTA PARA PREDITIVA AVALIAR CAUSAS
+Anomalia/Ação Tomada: _________________________________________________________
